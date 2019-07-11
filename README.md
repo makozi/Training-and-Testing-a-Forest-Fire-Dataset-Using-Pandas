@@ -6,6 +6,7 @@ Using Forest Fires Data Set from kaggle (https://www.kaggle.com/elikplim/forest-
 
 As we work with the dataset, a machine learning algorithm works in two stages. We usually split the data around 20%-80% between testing and training stages. Under supervised learning, we split a dataset into a training data and test data in Python Machine Learning.
 
+Open  [this](https://github.com/makozi/Training-and-Testing-a-Forest-Fire-Dataset-Using-Pandas/blob/master/Spliting%2C%20Training%20and%20Testing%20a%20Forest%20Fire%20Dataset%20Using%20Pandas.ipynb)  with Jupyter Notebook
 
 ```python
 import pandas as pd
