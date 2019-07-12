@@ -1,5 +1,5 @@
-# Training-and-Testing-a-Forest-Fire-Dataset-Using-Pandas
-Splitting, Training and Testing a Forest Fire Data set Using Pandas
+# Training-and-Testing-a-Forest-Fire-Dataset-in-Python-Machine-Learning
+Splitting, Training and Testing a Forest Fire Data set in Python Machine Learning
 
 
 Using Forest Fires Data Set from kaggle (https://www.kaggle.com/elikplim/forest-fires-data-set/version/1)
